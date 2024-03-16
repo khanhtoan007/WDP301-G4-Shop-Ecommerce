@@ -33,7 +33,7 @@ const ListProduct = () => {
 
   return (
     <div className="listproduct">
-      <h1>All Products List</h1>
+      <h1>All PRODUCTS LIST</h1>
       <div className="listproduct-format-main">
           <p>Products</p>
           <p>Title</p>
